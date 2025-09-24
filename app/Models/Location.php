@@ -1,0 +1,24 @@
+<?php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Relations\HasMany;
+
+class Location extends Model
+{
+    public $timestamps = false;
+
+    protected $fillable = [
+        'name',
+        'address',
+    ];
+
+    /**
+     * Get events at this location
+     */
+    public function events(): HasMany
+    {
+        return $this->hasMany(Event::class);
+    }
+}
