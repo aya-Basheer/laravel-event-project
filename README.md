@@ -1,10 +1,11 @@
+
 # 🎯 Event Management Portal  
 
 An advanced portal to manage and organize events (conferences, workshops, seminars, and meetups).  
 Built with Laravel (Backend) + Vue.js + Tailwind CSS (Frontend).  
 
 ---
-
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/c772e6df-c857-4108-b0d3-9c1c5df6f1b6" />
 ## 🚀 Features  
 - Event Management (create, edit, delete).  
 - Speaker and Location management.  
