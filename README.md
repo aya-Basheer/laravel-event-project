@@ -17,16 +17,18 @@ Built with Laravel (Backend) + Vue.js + Tailwind CSS (Frontend).
 
 ---
 ## 📸 Screenshots
--Home page
+## Home page
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/68508b40-44d1-498b-9919-bddafebc92e4" />
 
 
 
 
--Login
+## Login
 <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/c772e6df-c857-4108-b0d3-9c1c5df6f1b6" />
 ))
 
+  ## Admi Dahboard 
+  <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/bb24d7a0-4e50-4b28-9939-63265142c4d5" />
 ## 🛠️ Tech Stack  
 
 ### Backend (Laravel)  
